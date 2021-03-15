@@ -1,0 +1,1 @@
+var ak = document.getElementsByClassName(parallax-layer)
